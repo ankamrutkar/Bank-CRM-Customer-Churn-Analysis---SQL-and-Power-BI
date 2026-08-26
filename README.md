@@ -46,12 +46,12 @@ The final result is an **interactive Power BI dashboard** designed to transform 
 
 ---
 
-🖼️ Dashboard Screenshots
-📊 Customer Churn Dashboard
-<img width="1038" height="580" alt="Screenshot 2026-04-30 at 7 04 27 PM" src="" /># 📊 Blinkit Sales Performance Analysis (Power BI)
+# 🖼️ Dashboard Screenshots
+## 📊 Customer Churn Dashboard
+<img width="1038" height="580" alt="Screenshot 2026-04-30 at 7 04 27 PM" src="Customer Churn Dashboard.png" /> # 📊 Customer Churn Dashboard (Power BI)
 
-🔎 Customer Risk Analysis Dashboard
-<img width="1038" height="580" alt="Screenshot 2026-04-30 at 7 04 27 PM" src="" /># 📊 Blinkit Sales Performance Analysis (Power BI)
+## 🔎 Customer Risk Analysis Dashboard
+<img width="1038" height="580" alt="Screenshot 2026-04-30 at 7 04 27 PM" src="Customer Risk Analysis Dashboard.png" /># 📊 Customer Risk Analysis Dashboard (Power BI)
 
 
 # 🛠️ Tools & Technologies
